@@ -16,7 +16,7 @@ sidebar:
     phone: 
     website:  #do not add http://
     linkedin: yoshio-rubio
-    github: yoshiorbui
+    github: yoshiorubio
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -32,9 +32,6 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
-
     interests:
       - item: Climbing
         link:
@@ -48,14 +45,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Summary [hello]()
 education:
-    - degree: MSc in Computer Science
+    - degree: PhD in Digital Systems
       university: University of London
       time: 2011 - 2012
       details: |
@@ -168,23 +160,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Python 
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: C++
+        level: 80%
+        
+      - name: Tensorflow, Keras, OpenCV
+        level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: HTML5 & CSS
+        level: 20%
+
+      - name: JavaScript
+        level: 20%
+
+      - name: ROS, CUDA, R
+        level: 50%
+
+      - name: Scala, Spark, SQL, PySpark
+       level: 25%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
