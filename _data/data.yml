@@ -45,42 +45,30 @@ career-profile:
       During my Master's and Doctorate, I worked in the development of new quantum-inspired 
       computer vision algorithms for medical imaging. Additionally, I participated in the 
       implementation of deep learnign algorithms for autonomous robots. My current research 
-      focuses in the quantum-inspired/quantum-enhanced algorithms for optimization and 
+      focuses in quantum-inspired/quantum-enhanced algorithms for optimization and 
       machine learning.
 education:
     - degree: D. Sc. in Digital Systems
       university: National Polytechnic Institute of Mexico
       time: 2016 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        In my doctoral dissertation titled Quantum-inspired Algorithms for automatic 
+        microcalcication detection, I developed several methods using quantum-inspired 
+        computational intelligence and machine learning:
+          - Automatic breast segmentation.
+          - Automatic microcalcification detection.
+          - Automatic clustering of microcalcifications.
     - degree: M. Sc. in Digital Systems
       university: National Polytechnic Institute of Mexico
       time: 2014 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        In the thesis titled Implementation of Quantum Signal Processing and Cellular Automata
+        for microcalcication detection, the main goal was to determine the feasibility of using
+        quantum signal processing for medical image processing.
     - degree: B. Eng. in Electronics
       university: Autonomous University of Baja California
       time: 2009 - 2013
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
