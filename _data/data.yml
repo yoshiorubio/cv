@@ -121,11 +121,14 @@ skills:
       - name: Tensorflow, Keras, OpenCV
         level: 90%
 
-      - name: CUDA, ROS
-        level: 40%
+      - name: CUDA, ROS, Caffe
+        level: 60%
 
       - name: SQL
-        level: 35%
+        level: 40%
+
+      - name: Javascript
+        level: 30%
 
       - name: HTML5 & CSS
         level: 20%
