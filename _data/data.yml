@@ -62,21 +62,6 @@ education:
       university: Autonomous University of Baja California
       time: 2009 - 2013
 
-educationcomplete:
-    - degree: D. Sc. in Digital Systems
-      university: National Polytechnic Institute of Mexico
-      time: 2016 - 2020
-      details: |
-
-    - degree: M. Sc. in Digital Systems
-      university: National Polytechnic Institute of Mexico
-      time: 2014 - 2016
-      details: |
-
-    - degree: B. Eng. in Electronics
-      university: Autonomous University of Baja California
-      time: 2009 - 2013
-
 #experiences:
 #    - role: Lead Developer
 #      time: 2015 - Present
@@ -125,27 +110,6 @@ educationcomplete:
 #      - title: Velocity
 #        link: "#hook"
 #        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
@@ -172,5 +136,41 @@ skills:
       - name: AngularJS
         level: 10%
 
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+educationcomplete:
+    - degree: D. Sc. in Digital Systems
+      university: National Polytechnic Institute of Mexico
+      time: 2016 - 2020
+      details: |
+
+    - degree: M. Sc. in Digital Systems
+      university: National Polytechnic Institute of Mexico
+      time: 2014 - 2016
+      details: |
+
+    - degree: B. Eng. in Electronics
+      university: Autonomous University of Baja California
+      time: 2009 - 2013
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
