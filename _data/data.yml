@@ -147,11 +147,26 @@ publications:
         link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
+
+      - title:  Evaluation of algorithms for traffic sign detection 
+        link: "https://doi.org/10.1117/12.2529709"
+        authors: Miguel Lopez-Montiel, Yoshio Rubio, Moisés Sánchez-Adame, Ulises Orozco-Rosas
+        conference: SPIE Optical Engineering + Applications, 2019
+
+      - title: Quantum-Inspired Acromyrmex Evolutionary Algorithm
+        link: "https://www.nature.com/articles/s41598-019-48409-5"
+        authors: Oscar Montiel, Yoshio Rubio, Cynthia Olvera and Ajelet Rivera
+        conference: Scientific Reports, 2019
+
+      - title: Quantum inspired algorithm for microcalcification detection in mammograms
+        link: "https://doi.org/10.1016/j.ins.2018.12.040"
+        authors: Yoshio Rubio, Oscar Montiel and Roberto Sepúlveda
+        conference: Information Sciences, 2019
       
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Automatic Parallel Parking Algorithm for a Carlike Robot using Fuzzy PD+ I Control."
+        link: "https://pdfs.semanticscholar.org/cfa2/0cad9d1cf3d1ca8c9fe8a877b16e2d3c583f.pdf"
+        authors: Enrique Ballinas, Oscar Montiel, Oscar Castillo, Yoshio Rubio, Luis T Aguilar
+        conference: "Engineering Letters, 2018"
 
       - title: "Path Following Fuzzy System for a Nonholonomic Mobile Robot Based on Frontal Camera Information"
         link: "https://link.springer.com/chapter/10.1007/978-3-319-71008-2_18"
