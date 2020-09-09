@@ -68,6 +68,7 @@ education:
     - degree: B. Eng. in Electronics
       university: Autonomous University of Baja California
       time: 2009 - 2013
+
 #experiences:
 #    - role: Lead Developer
 #      time: 2015 - Present
@@ -116,7 +117,6 @@ education:
 #      - title: Velocity
 #        link: "#hook"
 #        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
 publications:
     title: Publications
     intro: |
