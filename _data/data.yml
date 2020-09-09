@@ -153,10 +153,10 @@ publications:
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Microcalcification Detection in Mammograms Based on Fuzzy Logic and Cellular Automata
+        link: "https://link.springer.com/chapter/10.1007/978-3-319-47054-2_38"
+        authors: Yoshio Rubio, Oscar Montiel and Roberto Sepúlveda
+        conference: " Nature-Inspired Design of Hybrid Intelligent Systems. Studies in Computational Intelligence"
 
 educationcomplete:
     - degree: D. Sc. in Digital Systems
