@@ -153,12 +153,12 @@ publications:
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Path Following Fuzzy System for a Nonholonomic Mobile Robot Based on Frontal Camera Information"
+        link: "https://link.springer.com/chapter/10.1007/978-3-319-71008-2_18"
+        authors:     Yoshio Rubio, Kenia Picos, Ulises Orozco-Rosas, Carlos Sepúlveda, Enrique Ballinas, Oscar Montiel, Oscar Castillo, Roberto Sepúlveda
+        conference: "Fuzzy Logic Augmentation of Neural and Optimization Algorithms: Theoretical Aspects and Real Applications, 2018"
       
-        - title: "Speeding Up Quantum Genetic Algorithms in Matlab Through the Quack_GPU V1"
+      - title: "Speeding Up Quantum Genetic Algorithms in Matlab Through the Quack_GPU V1"
         link: "https://link.springer.com/chapter/10.1007/978-3-319-67137-6_17"
         authors: Oscar Montiel, Roberto Sepúlveda and Yoshio Rubio
         conference: "North American Fuzzy Information Processing Society Annual Conference, 2017"
