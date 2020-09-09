@@ -147,16 +147,31 @@ publications:
         link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
-
+      
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      
+        - title: "Speeding Up Quantum Genetic Algorithms in Matlab Through the Quack_GPU V1"
+        link: "https://link.springer.com/chapter/10.1007/978-3-319-67137-6_17"
+        authors: Oscar Montiel, Roberto Sepúlveda and Yoshio Rubio
+        conference: "North American Fuzzy Information Processing Society Annual Conference, 2017"
+
+      - title: "Cellular Automata Enhanced Quantum Inspired Edge Detection"
+        link: "https://link.springer.com/chapter/10.1007/978-3-319-67137-6_15"
+        authors: Yoshio Rubio, Oscar Montiel and Roberto Sepúlveda
+        conference: "North American Fuzzy Information Processing Society Annual Conference, 2017"
+
       - title: Microcalcification Detection in Mammograms Based on Fuzzy Logic and Cellular Automata
         link: "https://link.springer.com/chapter/10.1007/978-3-319-47054-2_38"
         authors: Yoshio Rubio, Oscar Montiel and Roberto Sepúlveda
-        conference: " Nature-Inspired Design of Hybrid Intelligent Systems. Studies in Computational Intelligence"
+        conference: "Nature-Inspired Design of Hybrid Intelligent Systems, 2017"
 
 educationcomplete:
     - degree: D. Sc. in Digital Systems
