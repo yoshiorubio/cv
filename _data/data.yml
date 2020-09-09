@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -33,13 +33,10 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Tinkering
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Guitar playing
         link:
 
 career-profile:
@@ -47,9 +44,9 @@ career-profile:
     summary: |
       Summary [hello]()
 education:
-    - degree: PhD in Digital Systems
-      university: University of London
-      time: 2011 - 2012
+    - degree: D. Sc. in Digital Systems
+      university: National Polytechnic Institute of Mexico
+      time: 2016 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -58,9 +55,20 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
+    - degree: M. Sc. in Digital Systems
+      university: National Polytechnic Institute of Mexico
+      time: 2014 - 2016
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: B. Eng. in Electronics
       university: Bristol University
-      time: 2007 - 2011
+      time: 2009 - 2013
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
