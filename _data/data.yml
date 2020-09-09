@@ -139,14 +139,17 @@ skills:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Autonomous Garage Parking of a Car-Like Robot Using a Fuzzy PD+ I Controller
+        link: "https://link.springer.com/chapter/10.1007/978-3-030-35445-9_25"
+        authors: Enrique Ballinas, Oscar Montiel and Yoshio Rubio
+        conference: Intuitionistic and Type-2 Fuzzy Logic Enhancements in Neural and Optimization Algorithms. Theory and Applications, 2020
+      
+      - title: Multi-objective Evaluation of Deep Learning Based Semantic Segmentation for Autonomous Driving Systems
+        link: "https://link.springer.com/chapter/10.1007/978-3-030-35445-9_23"
+        authors: Cynthia Olvera,  Yoshio Rubio and Oscar Montiel
+        conference: Intuitionistic and Type-2 Fuzzy Logic Enhancements in Neural and Optimization Algorithms. Theory and Applications
 
       - title:  Evaluation of algorithms for traffic sign detection 
         link: "https://doi.org/10.1117/12.2529709"
