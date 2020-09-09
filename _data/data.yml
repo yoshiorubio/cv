@@ -42,7 +42,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summary [hello]()
+      Summary [hello](google.com)
 education:
     - degree: D. Sc. in Digital Systems
       university: National Polytechnic Institute of Mexico
@@ -67,7 +67,7 @@ education:
           - Bullet point
           - Bullet point
     - degree: B. Eng. in Electronics
-      university: Bristol University
+      university: Autonomous University of Baja California
       time: 2009 - 2013
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -168,23 +168,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python & C++
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Tensorflow, Keras, OpenCV
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: CUDA, ROS
+        level: 40%
+
+      - name: AngularJS
+        level: 10%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 20%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: R, PySpark, Scala, Spark
+        level: 20%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: SQL
+        level: 35%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
