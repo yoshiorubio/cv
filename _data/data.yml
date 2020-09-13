@@ -36,7 +36,7 @@ sidebar:
       - item: Robotics
         link:
 
-      - item: Guitar playing
+      - item: Autonomous vehicles
         link:
 
 career-profile:
@@ -118,7 +118,7 @@ skills:
       - name: Python & C++
         level: 90%
 
-      - name: Tensorflow, Keras, OpenCV
+      - name: Tensorflow, Keras, OpenCV, Qiskit
         level: 90%
 
       - name: CUDA, ROS, Caffe
@@ -133,7 +133,7 @@ skills:
       - name: HTML5 & CSS
         level: 20%
 
-      - name: R, PySpark, Scala, Spark
+      - name: R, PySpark, MLlib
         level: 20%
 
       - name: AngularJS
