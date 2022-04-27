@@ -33,7 +33,7 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Robotics
+      - item: Quantum Machine Learning
         link:
 
       - item: Autonomous vehicles
@@ -42,11 +42,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      During my Master's and Doctorate, I worked in the development of new quantum-inspired 
-      computer vision algorithms for medical imaging. Additionally, I participated in the 
-      implementation of deep learning algorithms for autonomous robots. My current research 
+      I current work as a Deep Learning Researcher at Samsung Research Tijuana 
+      creating new solutions for visual content creation. My current research 
       focuses in quantum-inspired/quantum-enhanced algorithms for optimization and 
-      machine learning.
+      quantum machine learning.
 education:
     - degree: D. Sc. in Digital Systems
       university: National Polytechnic Institute of Mexico
@@ -61,6 +60,15 @@ education:
     - degree: B. Eng. in Electronics
       university: Autonomous University of Baja California
       time: 2009 - 2013
+
+experiences:
+    - role: Researcher/Machine Learning Engineer
+      time: 2020 - Present
+      company: Samsung Research Tijuana
+      details: |
+        Most of my work consists on doing research to find new solutions
+        on visual content generation with deep learning and task in 
+        which machine learning could provide an efficient solution.
 
 #experiences:
 #    - role: Lead Developer
@@ -115,29 +123,21 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & C++
+      - name: Python
         level: 90%
 
-      - name: Tensorflow, Keras, OpenCV, Qiskit
+      - name: Tensorflow, Keras, OpenCV
         level: 90%
+      
+      - name: Qiskit, Pennylane
+        level: 80%
+
+      - name: C/C++
+        level: 70%
 
       - name: CUDA, ROS, Caffe
-        level: 60%
+        level: 50%
 
-      - name: SQL
-        level: 40%
-
-      - name: Javascript
-        level: 30%
-
-      - name: HTML5 & CSS
-        level: 20%
-
-      - name: R, PySpark, MLlib
-        level: 20%
-
-      - name: AngularJS
-        level: 10%
 
 publications:
     title: Publications
