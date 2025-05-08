@@ -146,12 +146,31 @@ skills:
         level: 50%
 
 
-
 publications:
     title: Publications
     intro: |
       
     papers:
+      - title: EEG-based motor imagery classification with quantum algorithms
+        link: "https://www.sciencedirect.com/science/article/abs/pii/S0957417424002197"
+        authors: Cynthia Olvera, Oscar Montiel and Yoshio Rubio
+        conference: Expert Systems with Applications, 2024
+      
+      - title: Wildlife Image Generation From Scene Graphs 
+        link: "https://openaccess.thecvf.com/content/CVPR2023W/LatinX/html/Rubio_Wildlife_Image_Generation_From_Scene_Graphs_CVPRW_2023_paper.html"
+        authors: Yoshio Rubio and Marco A. Contreras-Cruz
+        conference: Soft Computing, 2023
+
+      - title: Quantum-inspired evolutionary algorithms on continuous space multiobjective problems
+        link: "https://link.springer.com/article/10.1007/s00500-022-06916-0"
+        authors: Cynthia Olvera, Oscar Montiel and Yoshio Rubio
+        conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2023
+
+      - title: Quantum-Inspired Evolutionary Algorithms on IBM Quantum Experience
+        link: "https://www.engineeringletters.com/issues_v29/issue_4/EL_29_4_30.pdf"
+        authors: Yoshio Rubio, Cynthia Olvera and Oscar Montiel 
+        conference: Engineering Letters, 2021
+
       - title: Autonomous Garage Parking of a Car-Like Robot Using a Fuzzy PD+ I Controller
         link: "https://link.springer.com/chapter/10.1007/978-3-030-35445-9_25"
         authors: Enrique Ballinas, Oscar Montiel and Yoshio Rubio
