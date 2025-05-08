@@ -159,12 +159,12 @@ publications:
       - title: Wildlife Image Generation From Scene Graphs 
         link: "https://openaccess.thecvf.com/content/CVPR2023W/LatinX/html/Rubio_Wildlife_Image_Generation_From_Scene_Graphs_CVPRW_2023_paper.html"
         authors: Yoshio Rubio and Marco A. Contreras-Cruz
-        conference: Soft Computing, 2023
+        conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2023
 
       - title: Quantum-inspired evolutionary algorithms on continuous space multiobjective problems
         link: "https://link.springer.com/article/10.1007/s00500-022-06916-0"
         authors: Cynthia Olvera, Oscar Montiel and Yoshio Rubio
-        conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2023
+        conference: Soft Computing, 2022
 
       - title: Quantum-Inspired Evolutionary Algorithms on IBM Quantum Experience
         link: "https://www.engineeringletters.com/issues_v29/issue_4/EL_29_4_30.pdf"
