@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Yoshio Rubio
-    tagline: Artificial Intelligence Researcher
+    tagline: Sr. Research Scientist (AI/ML)
     avatar: picture.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -46,10 +46,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I currently work as a Deep Learning Researcher at Samsung Research Tijuana 
-      creating new solutions for visual content creation. My current research 
-      focuses in quantum-inspired/quantum-enhanced algorithms for optimization and 
-      quantum machine learning.
+      I currently work as a Senior Research Scientist at Samsung Research Tijuana 
+      creating new solutions to improve the experience of consumers. My current research 
+      focuses in the development of resource-efficient MLLMs and DL architectures for visual tasks.
 education:
     - degree: D. Sc. in Digital Systems
       university: National Polytechnic Institute of Mexico
@@ -66,8 +65,8 @@ education:
       time: 2009 - 2013
 
 experiences:
-    - role: Researcher/Machine Learning Engineer
-      time: 2020 - Present
+    - role: Research Scientist (AI/ML)
+      time: 2020 - 2023
       company: Samsung Research Tijuana
       details: |
         Most of my work consists on doing research to find new solutions
