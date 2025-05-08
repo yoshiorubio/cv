@@ -65,6 +65,13 @@ education:
       time: 2009 - 2013
 
 experiences:
+    - role: Sr. Research Scientist (AI/ML)
+      time: 2023 - Present
+      company: Samsung Research Tijuana
+      details: |
+        Most of my work consists on doing research to find new solutions
+        on visual content generation with deep learning and task in 
+        which machine learning could provide an efficient solution.
     - role: Research Scientist (AI/ML)
       time: 2020 - 2023
       company: Samsung Research Tijuana
@@ -129,17 +136,15 @@ skills:
       - name: Python
         level: 90%
 
-      - name: Tensorflow, Keras, OpenCV
-        level: 90%
-      
-      - name: Qiskit, Pennylane
+      - name: PyTorch, Tensorflow
         level: 80%
-
+      
       - name: C/C++
-        level: 70%
+        level: 60%
 
-      - name: CUDA, ROS, Caffe
+      - name: Qiskit, Pennylane
         level: 50%
+
 
 
 publications:
