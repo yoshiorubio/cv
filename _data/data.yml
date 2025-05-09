@@ -46,9 +46,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I currently work as a Senior Research Scientist at Samsung Research Tijuana 
-      creating new solutions to improve the experience of consumers. My current research 
-      focuses in the development of resource-efficient MLLMs and DL architectures for visual tasks.
+      I currently work as a Senior Research Scientist at Samsung Research Tijuana, 
+      where I lead the development of innovative solutions aimed at enhancing consumer 
+      experiences. My research is focused on creating resource-efficient multimodal 
+      large language models (MLLMs) and deep learning architectures, specifically 
+      tailored to address complex visual tasks with optimal performance and scalability.
 education:
     - degree: D. Sc. in Digital Systems
       university: National Polytechnic Institute of Mexico
@@ -69,16 +71,22 @@ experiences:
       time: 2023 - Present
       company: Samsung Research Tijuana
       details: |
-        Most of my work consists on doing research to find new solutions
-        on visual content generation with deep learning and task in 
-        which machine learning could provide an efficient solution.
+        My research is centered on the development of efficient multimodal 
+        LLMs, with a focus on integrating visual context to enhance model 
+        understanding and interaction. I explore strategies to optimize and 
+        scale small LLMs for real-time applications, leveraging advancements 
+        in multimodal learning to improve performance across a wide range 
+        of vision-language tasks.
     - role: Research Scientist (AI/ML)
       time: 2020 - 2023
       company: Samsung Research Tijuana
       details: |
-        Most of my work consists on doing research to find new solutions
-        on visual content generation with deep learning and task in 
-        which machine learning could provide an efficient solution.
+        My activities primarily focused on conducting cutting-edge research 
+        to develop novel solutions for visual content generation and to enhance  using 
+        deep learning techniques. I specialize in identifying and 
+        exploring machine learning-driven approaches to solve complex 
+        tasks in computer vision, with an emphasis on improving 
+        efficiency and performance in real-world applications.
 
 #experiences:
 #    - role: Lead Developer
